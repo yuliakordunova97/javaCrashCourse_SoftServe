@@ -1,6 +1,8 @@
 public class First {
 
-    public static void main(String[] args) {
-        
+    public static int doubleInteger(int i) {
+
+        return i * 2;
     }
+
 }
